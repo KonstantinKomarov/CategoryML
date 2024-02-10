@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3RozCLJMyYSmHsToNohT3gUOUir5oUUwqf3RvPjpPS1nPdDNNJmqYHpO9Vpf4PFGa7YJwwiVLLxaU0hXRYKug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\koshm\\OneDrive\\Documents\\CategoryML\\CategoryML.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koshm\\.nuget\\packages\\fsharp.core\\7.0.403\\fsharp.core.7.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
